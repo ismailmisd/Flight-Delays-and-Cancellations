@@ -1,7 +1,7 @@
 # Flight-Delays-and-Cancellations
 
 ## Introduction
-this is my Udacity's Advanced Data Analysis Nanodegree graduation project
+this is **my Udacity's Advanced Data Analysis Nanodegree graduation project**
 
 it is a visual analysis in tableau to the Flight Delays and Cancellations 
 
@@ -18,11 +18,12 @@ You can find the dataset in this [link](https://www.kaggle.com/datasets/usdot/fl
 ## Project's file
 the project has
 * three xlsx files for the row data
-* one main pdf file for the project that contain a detailed information
+* one main md file for the project that contain a detailed information
+* one pdf file contain the same md file data
 
 
 ## Project formatting
-Each insight in the pdf file consists of
+Each insight in the project consists of
 
 * links   : which is the reference link to the visualization in my tableau public profile 
 * summary : which is a description to the visualization and which charts I used and what is the insights it deliver
